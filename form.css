@@ -1,0 +1,53 @@
+body {
+  height: 690px;
+  background-color: lightskyblue;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 24px;
+}
+
+.form_background {
+  width: 63%;
+  height: 390px;
+  background-color: powderblue;
+
+  border-radius: 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+
+
+input {
+  width: 220px;
+  height: 22px;
+}
+
+button {
+  height: 30px;
+  width: 80px;
+}
+
+.its_false {
+  border: 5px solid red;
+
+}
+
+.font_false {
+  font-size: 19px;
+  color: red;
+}
+
+.font_true {
+  color: green;
+  font-size: 19px;
+}
+
+.its_true {
+  border: 5px solid green;
+}
